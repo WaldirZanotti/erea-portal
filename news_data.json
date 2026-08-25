@@ -1,6 +1,6 @@
 {
-  "gerado_em": "25/08/2026 às 06:22",
-  "total": 26,
+  "gerado_em": "25/08/2026 às 13:33",
+  "total": 25,
   "noticias": [
     {
       "id": "50c2908d10",
@@ -22,48 +22,6 @@
       "badges": [
         "Destaque",
         "Investimento"
-      ]
-    },
-    {
-      "id": "522ae9194f",
-      "headline": "Depois de galpões logísticos, Ribeiro Caram investe na onda dos data centers",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/business/depois-de-galpoes-logisticos-ribeiro-caram-investe-na-onda-dos-data-centers/",
-      "time": "há 21 min",
-      "dt_iso": "2026-08-25T09:00:00+00:00",
-      "summary": "Cerca de 60% dos investimentos da construtora são destinados a formação de tecnologias, equipes, processos e parcerias com empresas especializadas \n The post  Depois de galpões logísticos, Ribeiro Caram investe na onda dos data centers  appeared first on  InfoMoney .",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "investe",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 8,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "b1ab99f9a4",
-      "headline": "BRCO11 Aluga Galpão na Rodovia Dutra para o Mercado Livre por Cinco Anos - Forbes Brasil",
-      "source": "Forbes",
-      "link": "https://forbes.com.br",
-      "time": "18/08 às 11:18",
-      "dt_iso": "2026-08-18T14:18:40+00:00",
-      "summary": "BRCO11 Aluga Galpão na Rodovia Dutra para o Mercado Livre por Cinco Anos &nbsp;&nbsp; Forbes Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "galpão",
-        "aluga"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
       ]
     },
     {
@@ -168,6 +126,46 @@
       ]
     },
     {
+      "id": "68fc3813b5",
+      "headline": "ATACAREJO: Grupo Zaffari inaugura primeira unidade do Cestto fora do RS; investimento é de quase R$ 100 milhões - abcmais.com",
+      "source": "Abcmais",
+      "link": "https://www.abcmais.com",
+      "time": "hoje, 12:29",
+      "dt_iso": "2026-08-25T15:29:01+00:00",
+      "summary": "ATACAREJO: Grupo Zaffari inaugura primeira unidade do Cestto fora do RS; investimento é de quase R$ 100 milhões &nbsp;&nbsp; abcmais.com",
+      "category": "logistica",
+      "keywords": [
+        "grupo zaffari",
+        "inaugura",
+        "investimento"
+      ],
+      "score": 7,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "6394887e2d",
+      "headline": "Scania conclui ampliação do centro de distribuição de peças em Vinhedo-SP - Blog do Caminhoneiro",
+      "source": "Blogdocaminhoneiro",
+      "link": "https://blogdocaminhoneiro.com",
+      "time": "hoje, 10:46",
+      "dt_iso": "2026-08-25T13:46:10+00:00",
+      "summary": "Scania conclui ampliação do centro de distribuição de peças em Vinhedo-SP &nbsp;&nbsp; Blog do Caminhoneiro",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "amplia",
+        "ampliação"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "7f95288492",
       "headline": "Maior centro de distribuição da América Latina fica em Barra Velha, atende 195 lojas da Havan, tem tamanho equivalente a cerca de 28 campos de futebol e separa até 20 mil caixas por hora, enquanto passa por ampliação de R$ 250 milhões com novo galp - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
@@ -232,7 +230,7 @@
       "headline": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado - Nord Investimentos",
       "source": "Nordinvestimentos",
       "link": "https://www.nordinvestimentos.com.br",
-      "time": "hoje, 08:10",
+      "time": "ontem, 08:10",
       "dt_iso": "2026-08-24T11:10:00+00:00",
       "summary": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado &nbsp;&nbsp; Nord Investimentos",
       "category": "investimento",
@@ -245,25 +243,6 @@
       "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Investimento"
-      ]
-    },
-    {
-      "id": "35c9f0aa4b",
-      "headline": "Casas Bahia sofre ações de despejo de lojas e galpões em todo o Brasil - Conexão Política",
-      "source": "Conexaopolitica",
-      "link": "https://www.conexaopolitica.com.br",
-      "time": "20/08 às 15:59",
-      "dt_iso": "2026-08-20T18:59:44+00:00",
-      "summary": "Casas Bahia sofre ações de despejo de lojas e galpões em todo o Brasil &nbsp;&nbsp; Conexão Política",
-      "category": "logistica",
-      "keywords": [
-        "casas bahia",
-        "galpões"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -327,6 +306,25 @@
       ]
     },
     {
+      "id": "001c8b2891",
+      "headline": "Latam investirá US$ 25 milhões em Wi-Fi via satélite para mais de 60 novas aeronaves",
+      "source": "Exame",
+      "link": "https://exame.com/tecnologia/latam-investira-us-25-milhoes-em-wi-fi-via-satelite-para-mais-de-60-novas-aeronaves/",
+      "time": "hoje, 09:36",
+      "dt_iso": "2026-08-25T12:36:50+00:00",
+      "summary": "Tecnologia multiórbita chega a modelos Airbus A320neo, A321XLR e Embraer E195-E2 nos próximos anos, ampliando frota conectada da companhia",
+      "category": "logistica",
+      "keywords": [
+        "embraer",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "a30db4e4c2",
       "headline": "Maior condomínio logístico do Norte-Nordeste fica na Bahia e ganha expansão de 26 mil m² - Alô Alô Bahia",
       "source": "Aloalobahia",
@@ -384,6 +382,25 @@
       ]
     },
     {
+      "id": "522ae9194f",
+      "headline": "Depois de galpões logísticos, Ribeiro Caram investe na onda dos data centers - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "hoje, 06:00",
+      "dt_iso": "2026-08-25T09:00:00+00:00",
+      "summary": "Depois de galpões logísticos, Ribeiro Caram investe na onda dos data centers &nbsp;&nbsp; InfoMoney",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "10b2874d8b",
       "headline": "Impala Terminals abre galpão de 8 mil m² para concentrados minerais em Arica - Data Portuaria",
       "source": "Dataportuaria",
@@ -398,25 +415,6 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "d67a4c78b2",
-      "headline": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País - Abradilan",
-      "source": "Abradilan",
-      "link": "https://abradilan.com.br",
-      "time": "18/08 às 10:40",
-      "dt_iso": "2026-08-18T13:40:50+00:00",
-      "summary": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País &nbsp;&nbsp; Abradilan",
-      "category": "logistica",
-      "keywords": [
-        "armazenagem",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -445,32 +443,13 @@
       "headline": "Casas Bahia abre novo leilão após rodada com descontos de até 68% - Times Brasil | CNBC",
       "source": "Timesbrasil",
       "link": "https://timesbrasil.com.br",
-      "time": "ontem, 07:45",
+      "time": "23/08 às 07:45",
       "dt_iso": "2026-08-23T10:45:00+00:00",
       "summary": "Casas Bahia abre novo leilão após rodada com descontos de até 68% &nbsp;&nbsp; Times Brasil | CNBC",
       "category": "logistica",
       "keywords": [
         "casas bahia",
         "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "fd938164a2",
-      "headline": "Casas Bahia atrasa aluguel e acende alerta para investidores do HSLG11 - A Revista",
-      "source": "Arevista",
-      "link": "https://arevista.com.br",
-      "time": "22/08 às 10:21",
-      "dt_iso": "2026-08-22T13:21:48+00:00",
-      "summary": "Casas Bahia atrasa aluguel e acende alerta para investidores do HSLG11 &nbsp;&nbsp; A Revista",
-      "category": "logistica",
-      "keywords": [
-        "casas bahia",
-        "aluguel"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -502,7 +481,7 @@
       "headline": "Grupo Mateus investe R$ 60 mi em terreno onde funcionava CD do Yamada - SA+ Ecossistema de Varejo",
       "source": "Samais",
       "link": "https://samais.com.br",
-      "time": "hoje, 09:20",
+      "time": "ontem, 09:20",
       "dt_iso": "2026-08-24T12:20:00+00:00",
       "summary": "Grupo Mateus investe R$ 60 mi em terreno onde funcionava CD do Yamada &nbsp;&nbsp; SA+ Ecossistema de Varejo",
       "category": "logistica",
