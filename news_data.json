@@ -1,7 +1,28 @@
 {
-  "gerado_em": "26/08/2026 às 06:28",
-  "total": 25,
+  "gerado_em": "26/08/2026 às 13:46",
+  "total": 24,
   "noticias": [
+    {
+      "id": "cc819eb2be",
+      "headline": "Shopee Trends mostra caminhos para negócios brasileiros crescerem no digital",
+      "source": "Exame",
+      "link": "https://exame.com/negocios/shopee-trends-negocios-digital/",
+      "time": "hoje, 09:05",
+      "dt_iso": "2026-08-26T12:05:37+00:00",
+      "summary": "Evento reuniu cerca de 10 mil participantes em São Paulo, apresentou soluções para vendedores e reconheceu empreendedoras que ampliaram seus negócios por meio do comércio eletrônico",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "amplia",
+        "ampliaram",
+        "cresce"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
     {
       "id": "999c22fb74",
       "headline": "MGLU3: Análise técnica semanal da ação de Magazine Luiza (Magalu) - Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -42,26 +63,6 @@
       "badges": [
         "Destaque",
         "Industrial"
-      ]
-    },
-    {
-      "id": "1d73d15f2d",
-      "headline": "Disney amplia o 'Disney+ Benefícios' após alto impacto em retenção e engajamento em sua 1ª fase",
-      "source": "Exame",
-      "link": "https://exame.com/pop/disney-amplia-disney-beneficios-apos-alto-impacto-em-retencao-e-engajamento-em-sua-1a-fase/",
-      "time": "hoje, 03:00",
-      "dt_iso": "2026-08-26T06:00:06+00:00",
-      "summary": "Em entrevista exclusiva à EXAME, Vice Presidente de Direct to Consumer do Disney+ afirma que a iniciativa agora vai incluir Mercado Livre, Renner e McDonald’s",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "renner",
-        "amplia"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -108,7 +109,7 @@
       "headline": "ATACAREJO: Grupo Zaffari inaugura primeira unidade do Cestto fora do RS; investimento é de quase R$ 100 milhões - abcmais.com",
       "source": "Abcmais",
       "link": "https://www.abcmais.com",
-      "time": "hoje, 12:29",
+      "time": "ontem, 12:29",
       "dt_iso": "2026-08-25T15:29:01+00:00",
       "summary": "ATACAREJO: Grupo Zaffari inaugura primeira unidade do Cestto fora do RS; investimento é de quase R$ 100 milhões &nbsp;&nbsp; abcmais.com",
       "category": "logistica",
@@ -164,6 +165,25 @@
       ]
     },
     {
+      "id": "a3b0aaa354",
+      "headline": "Mercado Livre prepara novo Centro de Distribuição em Juiz de Fora - Folha JF",
+      "source": "Folhajf",
+      "link": "https://folhajf.com.br",
+      "time": "hoje, 11:55",
+      "dt_iso": "2026-08-26T14:55:58+00:00",
+      "summary": "Mercado Livre prepara novo Centro de Distribuição em Juiz de Fora &nbsp;&nbsp; Folha JF",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "7ad0a9e8fc",
       "headline": "Empresa de investimentos compra 13,2% de grupo dono da Tok&Stok - UOL Economia",
       "source": "UOL",
@@ -207,7 +227,7 @@
       "headline": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado - Nord Investimentos",
       "source": "Nordinvestimentos",
       "link": "https://www.nordinvestimentos.com.br",
-      "time": "ontem, 08:10",
+      "time": "24/08 às 08:10",
       "dt_iso": "2026-08-24T11:10:00+00:00",
       "summary": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado &nbsp;&nbsp; Nord Investimentos",
       "category": "investimento",
@@ -263,26 +283,6 @@
       ]
     },
     {
-      "id": "365db95e91",
-      "headline": "Assaí inaugura quarta unidade da Assaí Farma e amplia presença na Zona Leste de São Paulo - SuperVarejo",
-      "source": "Supervarejo",
-      "link": "https://www.supervarejo.com.br",
-      "time": "19/08 às 12:32",
-      "dt_iso": "2026-08-19T15:32:19+00:00",
-      "summary": "Assaí inaugura quarta unidade da Assaí Farma e amplia presença na Zona Leste de São Paulo &nbsp;&nbsp; SuperVarejo",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "inaugura",
-        "amplia"
-      ],
-      "score": 7,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "bce08142ab",
       "headline": "Scania amplia centro de distribuição de peças em Vinhedo - MundoLogística",
       "source": "Mundo Logística",
@@ -302,39 +302,20 @@
       ]
     },
     {
-      "id": "a30db4e4c2",
-      "headline": "Maior condomínio logístico do Norte-Nordeste fica na Bahia e ganha expansão de 26 mil m² - Alô Alô Bahia",
-      "source": "Aloalobahia",
-      "link": "https://aloalobahia.com",
-      "time": "ontem, 23:20",
-      "dt_iso": "2026-08-25T02:20:52+00:00",
-      "summary": "Maior condomínio logístico do Norte-Nordeste fica na Bahia e ganha expansão de 26 mil m² &nbsp;&nbsp; Alô Alô Bahia",
-      "category": "expansao",
+      "id": "59ec543989",
+      "headline": "Maior condomínio logístico do Norte-Nordeste expande 26 mil m² - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 10:37",
+      "dt_iso": "2026-08-26T13:37:00+00:00",
+      "summary": "Maior condomínio logístico do Norte-Nordeste expande 26 mil m² &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
       "keywords": [
         "condomínio logístico",
-        "expansão"
+        "expande"
       ],
       "score": 6,
       "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "3729e3b2a0",
-      "headline": "Fulwood anuncia aporte de R$ 240 milhões para expandir condomínios logísticos em MG - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "19/08 às 07:26",
-      "dt_iso": "2026-08-19T10:26:38+00:00",
-      "summary": "Fulwood anuncia aporte de R$ 240 milhões para expandir condomínios logísticos em MG &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "condomínios logísticos",
-        "aporte"
-      ],
-      "score": 6,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -397,20 +378,39 @@
       ]
     },
     {
-      "id": "5a4aa02b92",
-      "headline": "HGLG11 cai ao menor preço em 6 anos, paga R$ 1,17 e prepara novos galpões - A Revista",
-      "source": "Arevista",
-      "link": "https://arevista.com.br",
-      "time": "20/08 às 11:46",
-      "dt_iso": "2026-08-20T14:46:21+00:00",
-      "summary": "HGLG11 cai ao menor preço em 6 anos, paga R$ 1,17 e prepara novos galpões &nbsp;&nbsp; A Revista",
-      "category": "logistica",
+      "id": "9f79d69f14",
+      "headline": "C&A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030 - DComercio",
+      "source": "Dcomercio",
+      "link": "https://dcomercio.com.br",
+      "time": "há 45 min",
+      "dt_iso": "2026-08-26T16:00:00+00:00",
+      "summary": "C&amp;A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030 &nbsp;&nbsp; DComercio",
+      "category": "expansao",
       "keywords": [
-        "galpões",
-        "novos galpões"
+        "c&a",
+        "expansão"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "aa2d3f2c63",
+      "headline": "Madesa investe R$ 51 milhões em novo centro de distribuição e mira dobrar participação internacional - Times Brasil | CNBC",
+      "source": "Timesbrasil",
+      "link": "https://timesbrasil.com.br",
+      "time": "hoje, 08:11",
+      "dt_iso": "2026-08-26T11:11:00+00:00",
+      "summary": "Madesa investe R$ 51 milhões em novo centro de distribuição e mira dobrar participação internacional &nbsp;&nbsp; Times Brasil | CNBC",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -454,30 +454,11 @@
       ]
     },
     {
-      "id": "f806a92bc4",
-      "headline": "Assaí amplia marca própria e entra no segmento de limpeza com linha Bloom - SA+ Ecossistema de Varejo",
-      "source": "Samais",
-      "link": "https://samais.com.br",
-      "time": "19/08 às 09:50",
-      "dt_iso": "2026-08-19T12:50:00+00:00",
-      "summary": "Assaí amplia marca própria e entra no segmento de limpeza com linha Bloom &nbsp;&nbsp; SA+ Ecossistema de Varejo",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "c28bd9994c",
       "headline": "Grupo Mateus investe R$ 60 mi em terreno onde funcionava CD do Yamada - SA+ Ecossistema de Varejo",
       "source": "Samais",
       "link": "https://samais.com.br",
-      "time": "ontem, 09:20",
+      "time": "24/08 às 09:20",
       "dt_iso": "2026-08-24T12:20:00+00:00",
       "summary": "Grupo Mateus investe R$ 60 mi em terreno onde funcionava CD do Yamada &nbsp;&nbsp; SA+ Ecossistema de Varejo",
       "category": "logistica",
