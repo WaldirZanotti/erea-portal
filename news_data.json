@@ -1,7 +1,49 @@
 {
-  "gerado_em": "27/08/2026 às 16:18",
-  "total": 24,
+  "gerado_em": "27/08/2026 às 21:44",
+  "total": 29,
   "noticias": [
+    {
+      "id": "479e1231d4",
+      "headline": "Shopee fecha maior locação de galpão logístico do Brasil com 220 mil m² - Investidor10",
+      "source": "Investidor10",
+      "link": "https://investidor10.com.br",
+      "time": "25/08 às 04:00",
+      "dt_iso": "2026-08-25T07:00:00+00:00",
+      "summary": "Shopee fecha maior locação de galpão logístico do Brasil com 220 mil m² &nbsp;&nbsp; Investidor10",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "galpão",
+        "locação"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "61852e2112",
+      "headline": "Corrida por entregas rápidas entre Mercado Livre, Amazon e Shopee aquece mercado de galpões - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 19:03",
+      "dt_iso": "2026-08-27T22:03:22+00:00",
+      "summary": "Corrida por entregas rápidas entre Mercado Livre, Amazon e Shopee aquece mercado de galpões &nbsp;&nbsp; MundoLogística",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "galpões"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
     {
       "id": "f7aa004d7e",
       "headline": "FII ALZR11 compra galpão logístico alugado à Shopee; veja dividendos - Investidor10",
@@ -45,27 +87,6 @@
       ]
     },
     {
-      "id": "f55fe437e4",
-      "headline": "Disney+ Benefícios é ampliado no Brasil com vantagens no Mercado Livre, Renner e McDonald's - TudoCelular.com",
-      "source": "Tudocelular",
-      "link": "https://www.tudocelular.com",
-      "time": "hoje, 12:20",
-      "dt_iso": "2026-08-27T15:20:45+00:00",
-      "summary": "Disney+ Benefícios é ampliado no Brasil com vantagens no Mercado Livre, Renner e McDonald's &nbsp;&nbsp; TudoCelular.com",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "renner",
-        "amplia",
-        "ampliado"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "f65d0d7de6",
       "headline": "Fornecedor exige pagamento à vista da Casas Bahia, e empresa atrasa aluguel de galpões - O GLOBO",
       "source": "O Globo",
@@ -87,22 +108,23 @@
       ]
     },
     {
-      "id": "ecee92bae7",
-      "headline": "Casas Bahia enfrenta despejo de galpão em Contagem - BHAZ",
-      "source": "Bhaz",
-      "link": "https://bhaz.com.br",
-      "time": "20/08 às 16:29",
-      "dt_iso": "2026-08-20T19:29:00+00:00",
-      "summary": "Casas Bahia enfrenta despejo de galpão em Contagem &nbsp;&nbsp; BHAZ",
-      "category": "logistica",
+      "id": "69ecccd216",
+      "headline": "Havan define prazo para inaugurar expansão de R$ 250 milhões com sistema autoportante no maior centro de distribuição da América Latina - NSC Total",
+      "source": "NSC Total",
+      "link": "https://www.nsctotal.com.br",
+      "time": "21/08 às 11:15",
+      "dt_iso": "2026-08-21T14:15:09+00:00",
+      "summary": "Havan define prazo para inaugurar expansão de R$ 250 milhões com sistema autoportante no maior centro de distribuição da América Latina &nbsp;&nbsp; NSC Total",
+      "category": "expansao",
       "keywords": [
-        "casas bahia",
-        "galpão"
+        "centro de distribuição",
+        "inaugura",
+        "expansão"
       ],
       "score": 7,
-      "relevance": "Região(ões) mencionada(s): Contagem.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "Expansão"
       ]
     },
     {
@@ -146,26 +168,6 @@
       ]
     },
     {
-      "id": "d3699227bf",
-      "headline": "A LOG construiu ’11 campos de futebol’ em galpões; e já alugou tudo - Moon BH",
-      "source": "Moonbh",
-      "link": "https://moonbh.com.br",
-      "time": "20/08 às 18:07",
-      "dt_iso": "2026-08-20T21:07:21+00:00",
-      "summary": "A LOG construiu ’11 campos de futebol’ em galpões; e já alugou tudo &nbsp;&nbsp; Moon BH",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "construiu",
-        "alugou"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "a3b0aaa354",
       "headline": "Mercado Livre prepara novo Centro de Distribuição em Juiz de Fora - Folha JF",
       "source": "Folhajf",
@@ -189,9 +191,28 @@
       "headline": "Casas Bahia pode devolver 540 mil m² de galpões logísticos; veja onde estão os imóveis - Times Brasil | CNBC",
       "source": "Timesbrasil",
       "link": "https://timesbrasil.com.br",
-      "time": "ontem, 16:30",
+      "time": "25/08 às 16:30",
       "dt_iso": "2026-08-25T19:30:00+00:00",
       "summary": "Casas Bahia pode devolver 540 mil m² de galpões logísticos; veja onde estão os imóveis &nbsp;&nbsp; Times Brasil | CNBC",
+      "category": "logistica",
+      "keywords": [
+        "casas bahia",
+        "galpões"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "cc31a24beb",
+      "headline": "Casas Bahia enfrenta ações de despejo de lojas e galpões logísticos - jornaluniversoonline.com.br",
+      "source": "Jornaluniversoonline",
+      "link": "https://jornaluniversoonline.com.br",
+      "time": "21/08 às 07:57",
+      "dt_iso": "2026-08-21T10:57:21+00:00",
+      "summary": "Casas Bahia enfrenta ações de despejo de lojas e galpões logísticos &nbsp;&nbsp; jornaluniversoonline.com.br",
       "category": "logistica",
       "keywords": [
         "casas bahia",
@@ -224,25 +245,6 @@
       ]
     },
     {
-      "id": "87d02401b7",
-      "headline": "Por Que o BTLG11 Pagou R$ 375 Milhões em um Novo Galpão Logístico em Guarulhos - Forbes Brasil",
-      "source": "Forbes",
-      "link": "https://forbes.com.br",
-      "time": "hoje, 11:06",
-      "dt_iso": "2026-08-27T14:06:06+00:00",
-      "summary": "Por Que o BTLG11 Pagou R$ 375 Milhões em um Novo Galpão Logístico em Guarulhos &nbsp;&nbsp; Forbes Brasil",
-      "category": "expansao",
-      "keywords": [
-        "galpão",
-        "novo galpão"
-      ],
-      "score": 6,
-      "relevance": "Região(ões) mencionada(s): Guarulhos.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "9f79d69f14",
       "headline": "C&A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030 - DComercio",
       "source": "Dcomercio",
@@ -266,7 +268,7 @@
       "headline": "Scania amplia centro de distribuição de peças em Vinhedo - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 16:37",
+      "time": "25/08 às 16:37",
       "dt_iso": "2026-08-25T19:37:31+00:00",
       "summary": "Scania amplia centro de distribuição de peças em Vinhedo &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -276,6 +278,25 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "edad69a61a",
+      "headline": "naPorta expande operação logística para Minas Gerais e Espírito Santo - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 09:37",
+      "dt_iso": "2026-08-27T12:37:53+00:00",
+      "summary": "naPorta expande operação logística para Minas Gerais e Espírito Santo &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "operação logística",
+        "expande"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -300,13 +321,32 @@
       ]
     },
     {
-      "id": "edad69a61a",
-      "headline": "naPorta expande operação logística para Minas Gerais e Espírito Santo - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "hoje, 09:37",
-      "dt_iso": "2026-08-27T12:37:53+00:00",
-      "summary": "naPorta expande operação logística para Minas Gerais e Espírito Santo &nbsp;&nbsp; MundoLogística",
+      "id": "b23ecc487e",
+      "headline": "Golgi inclui novo galpão de 54 mil m² na sua unidade em Cajamar - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 15:34",
+      "dt_iso": "2026-08-27T18:34:00+00:00",
+      "summary": "Golgi inclui novo galpão de 54 mil m² na sua unidade em Cajamar &nbsp;&nbsp; Modais em Foco",
+      "category": "expansao",
+      "keywords": [
+        "galpão",
+        "novo galpão"
+      ],
+      "score": 6,
+      "relevance": "Região(ões) mencionada(s): Cajamar.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "0cebc86174",
+      "headline": "naPorta expande operação logística para MG e ES - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 10:58",
+      "dt_iso": "2026-08-27T13:58:00+00:00",
+      "summary": "naPorta expande operação logística para MG e ES &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "operação logística",
@@ -316,6 +356,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "87d02401b7",
+      "headline": "Por Que o BTLG11 Pagou R$ 375 Milhões em um Novo Galpão Logístico em Guarulhos - Forbes Brasil",
+      "source": "Forbes",
+      "link": "https://forbes.com.br",
+      "time": "hoje, 11:06",
+      "dt_iso": "2026-08-27T14:06:06+00:00",
+      "summary": "Por Que o BTLG11 Pagou R$ 375 Milhões em um Novo Galpão Logístico em Guarulhos &nbsp;&nbsp; Forbes Brasil",
+      "category": "expansao",
+      "keywords": [
+        "galpão",
+        "novo galpão"
+      ],
+      "score": 6,
+      "relevance": "Região(ões) mencionada(s): Guarulhos.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -361,7 +420,7 @@
       "headline": "Atacadão inaugura quarta loja em Maceió (AL) - SuperVarejo",
       "source": "Supervarejo",
       "link": "https://www.supervarejo.com.br",
-      "time": "há 58 min",
+      "time": "hoje, 15:19",
       "dt_iso": "2026-08-27T18:19:38+00:00",
       "summary": "Atacadão inaugura quarta loja em Maceió (AL) &nbsp;&nbsp; SuperVarejo",
       "category": "logistica",
@@ -390,6 +449,25 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "b08a674e4c",
+      "headline": "C&A vai na contramão do comércio varejista e inaugura loja conceito na Avenida Paulista - DComercio",
+      "source": "Dcomercio",
+      "link": "https://dcomercio.com.br",
+      "time": "hoje, 17:00",
+      "dt_iso": "2026-08-27T20:00:00+00:00",
+      "summary": "C&amp;A vai na contramão do comércio varejista e inaugura loja conceito na Avenida Paulista &nbsp;&nbsp; DComercio",
+      "category": "logistica",
+      "keywords": [
+        "c&a",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -430,6 +508,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "c0d1fde640",
+      "headline": "Casas Bahia (BHIA3) e Amazon (AMZO34) se unem para ampliar vendas - Investidor10",
+      "source": "Investidor10",
+      "link": "https://investidor10.com.br",
+      "time": "25/08 às 04:00",
+      "dt_iso": "2026-08-25T07:00:00+00:00",
+      "summary": "Casas Bahia (BHIA3) e Amazon (AMZO34) se unem para ampliar vendas &nbsp;&nbsp; Investidor10",
+      "category": "ecommerce",
+      "keywords": [
+        "casas bahia",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
