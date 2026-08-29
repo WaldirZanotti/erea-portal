@@ -1,6 +1,6 @@
 {
-  "gerado_em": "28/08/2026 às 17:27",
-  "total": 38,
+  "gerado_em": "28/08/2026 às 21:23",
+  "total": 41,
   "noticias": [
     {
       "id": "50c2908d10",
@@ -50,7 +50,7 @@
       "headline": "Corrida por entregas rápidas entre Mercado Livre, Amazon e Shopee aquece mercado de galpões - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 19:03",
+      "time": "ontem, 19:03",
       "dt_iso": "2026-08-27T22:03:22+00:00",
       "summary": "Corrida por entregas rápidas entre Mercado Livre, Amazon e Shopee aquece mercado de galpões &nbsp;&nbsp; MundoLogística",
       "category": "ecommerce",
@@ -193,6 +193,27 @@
       ]
     },
     {
+      "id": "f55fe437e4",
+      "headline": "Disney+ Benefícios é ampliado no Brasil com vantagens no Mercado Livre, Renner e McDonald's - TudoCelular.com",
+      "source": "Tudocelular",
+      "link": "https://www.tudocelular.com",
+      "time": "ontem, 12:20",
+      "dt_iso": "2026-08-27T15:20:45+00:00",
+      "summary": "Disney+ Benefícios é ampliado no Brasil com vantagens no Mercado Livre, Renner e McDonald's &nbsp;&nbsp; TudoCelular.com",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "renner",
+        "amplia",
+        "ampliado"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "d2114429b7",
       "headline": "Mutirão de empregos: Juiz de Fora ganhará centro de distribuição do Mercado Livre - Terra",
       "source": "Terra",
@@ -308,6 +329,25 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "ed51fc4153",
+      "headline": "Orçamento de 2027 vai prever aporte federal de R$ 6 bilhões nos Correios",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/economia/orcamento-de-2027-vai-prever-aporte-federal-de-r-6-bilhoes-nos-correios/",
+      "time": "há 46 min",
+      "dt_iso": "2026-08-28T23:35:51+00:00",
+      "summary": "A estatal ainda está buscando atualmente R$ 7 bilhões com credores privados, como parte da estratégia para reverter os resultados negativos dos últimos anos \n The post  Orçamento de 2027 vai prever aporte federal de R$ 6 bilhões nos Correios  appeared first on  InfoMoney .",
+      "category": "investimento",
+      "keywords": [
+        "correios",
+        "aporte"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -572,6 +612,25 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "c1cb999e78",
+      "headline": "BRASIL - Correios inauguram Complexo de Logística Integrada Telégrafo Sem Fio no Pará para atender empresas e clientes em geral. - Repórter Maceió",
+      "source": "Reportermaceio",
+      "link": "https://reportermaceio.com.br",
+      "time": "hoje, 16:35",
+      "dt_iso": "2026-08-28T19:35:00+00:00",
+      "summary": "BRASIL - Correios inauguram Complexo de Logística Integrada Telégrafo Sem Fio no Pará para atender empresas e clientes em geral. &nbsp;&nbsp; Repórter Maceió",
+      "category": "logistica",
+      "keywords": [
+        "correios",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
