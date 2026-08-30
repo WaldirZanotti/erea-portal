@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/08/2026 às 11:02",
-  "total": 38,
+  "gerado_em": "30/08/2026 às 16:02",
+  "total": 37,
   "noticias": [
     {
       "id": "50c2908d10",
@@ -155,7 +155,7 @@
       "headline": "TikTok Shop muda onde começa a compra e desafia Mercado Livre, Shopee e Amazon - Investing.com Brasil - Finanças, Câmbio e Investimentos",
       "source": "Google News",
       "link": "https://br.investing.com",
-      "time": "ontem, 15:27",
+      "time": "28/08 às 15:27",
       "dt_iso": "2026-08-28T18:27:00+00:00",
       "summary": "TikTok Shop muda onde começa a compra e desafia Mercado Livre, Shopee e Amazon &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
       "category": "ecommerce",
@@ -218,7 +218,7 @@
       "headline": "Mutirão de empregos: Juiz de Fora ganhará centro de distribuição do Mercado Livre - Terra",
       "source": "Terra",
       "link": "https://www.terra.com.br",
-      "time": "ontem, 15:17",
+      "time": "28/08 às 15:17",
       "dt_iso": "2026-08-28T18:17:00+00:00",
       "summary": "Mutirão de empregos: Juiz de Fora ganhará centro de distribuição do Mercado Livre &nbsp;&nbsp; Terra",
       "category": "ecommerce",
@@ -312,25 +312,6 @@
       ]
     },
     {
-      "id": "e2ab86ba44",
-      "headline": "Enquanto Havan finaliza o maior centro de distribuição da América Latina, rede com 1.250 farmácias investe R$ 60 milhões em seu CD - A Crítica",
-      "source": "Acritica",
-      "link": "https://acritica.com",
-      "time": "ontem, 07:15",
-      "dt_iso": "2026-08-29T10:15:00+00:00",
-      "summary": "Enquanto Havan finaliza o maior centro de distribuição da América Latina, rede com 1.250 farmácias investe R$ 60 milhões em seu CD &nbsp;&nbsp; A Crítica",
-      "category": "investimento",
-      "keywords": [
-        "centro de distribuição",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "9f79d69f14",
       "headline": "C&A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030 - DComercio",
       "source": "Dcomercio",
@@ -347,6 +328,25 @@
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "e2ab86ba44",
+      "headline": "Enquanto Havan finaliza o maior centro de distribuição da América Latina, rede com 1.250 farmácias investe R$ 60 milhões em seu CD - A Crítica",
+      "source": "Acritica",
+      "link": "https://acritica.com",
+      "time": "ontem, 07:15",
+      "dt_iso": "2026-08-29T10:15:00+00:00",
+      "summary": "Enquanto Havan finaliza o maior centro de distribuição da América Latina, rede com 1.250 farmácias investe R$ 60 milhões em seu CD &nbsp;&nbsp; A Crítica",
+      "category": "investimento",
+      "keywords": [
+        "centro de distribuição",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -521,25 +521,6 @@
       ]
     },
     {
-      "id": "16db450342",
-      "headline": "Atacadão amplia presença no norte do Tocantins e na capital Alagoana - SuperHiper",
-      "source": "Superhiper",
-      "link": "https://www.superhiper.com.br",
-      "time": "28/08 às 10:12",
-      "dt_iso": "2026-08-28T13:12:24+00:00",
-      "summary": "Atacadão amplia presença no norte do Tocantins e na capital Alagoana &nbsp;&nbsp; SuperHiper",
-      "category": "logistica",
-      "keywords": [
-        "atacadão",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "cad00f656d",
       "headline": "Dom Atacadista abre seu 1º Centro de Distribuição em Queimados (RJ) - SA+ Ecossistema de Varejo",
       "source": "Samais",
@@ -677,7 +658,7 @@
       "headline": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões - Revista Oeste",
       "source": "Revistaoeste",
       "link": "https://revistaoeste.com",
-      "time": "hoje, 12:50",
+      "time": "ontem, 12:50",
       "dt_iso": "2026-08-29T15:50:07+00:00",
       "summary": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões &nbsp;&nbsp; Revista Oeste",
       "category": "logistica",
