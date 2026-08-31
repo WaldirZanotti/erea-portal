@@ -1,5 +1,5 @@
 {
-  "gerado_em": "31/08/2026 às 13:26",
+  "gerado_em": "31/08/2026 às 18:18",
   "total": 38,
   "noticias": [
     {
@@ -22,6 +22,27 @@
       "badges": [
         "Destaque",
         "Investimento"
+      ]
+    },
+    {
+      "id": "02c25bc64d",
+      "headline": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/business/shopper-investe-r-25-milhoes-em-primeiro-centro-de-distribuicao-fora-de-sp/",
+      "time": "há 54 min",
+      "dt_iso": "2026-08-31T20:22:28+00:00",
+      "summary": "A expansão faz parte do plano de crescimento nacional da empresa \n The post  Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP  appeared first on  InfoMoney .",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão",
+        "investe",
+        "crescimento"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -214,26 +235,6 @@
       ]
     },
     {
-      "id": "e0500aec04",
-      "headline": "Seara cresceu 500% em vendas no Rock in Rio e agora aposta no SP Open e em gastronomia",
-      "source": "Exame",
-      "link": "https://exame.com/marketing/seara-cresceu-500-em-vendas-no-rock-in-rio-e-agora-aposta-no-sp-open-e-em-gastronomia/",
-      "time": "hoje, 10:07",
-      "dt_iso": "2026-08-31T13:07:37+00:00",
-      "summary": "Em entrevista exclusiva à EXAME, diretora de marketing da companhia detalha os planos para setembro, com ações focadas em música, tênis e gastronomia",
-      "category": "logistica",
-      "keywords": [
-        "seara",
-        "cresce",
-        "cresceu"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "d2114429b7",
       "headline": "Mutirão de empregos: Juiz de Fora ganhará centro de distribuição do Mercado Livre - Terra",
       "source": "Terra",
@@ -272,26 +273,6 @@
       ]
     },
     {
-      "id": "6db077cfad",
-      "headline": "Vicunha reage a Shein e Shopee, enxuga estoque, amplia portfólio e mira voltar a lucrar - Bloomberg Línea Brasil",
-      "source": "Bloomberglinea",
-      "link": "https://www.bloomberglinea.com.br",
-      "time": "24/08 às 14:36",
-      "dt_iso": "2026-08-24T17:36:19+00:00",
-      "summary": "Vicunha reage a Shein e Shopee, enxuga estoque, amplia portfólio e mira voltar a lucrar &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "shein",
-        "amplia"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "0c1e9c89fe",
       "headline": "Assaí prepara inauguração de 3ª loja em Osasco - SA+ Ecossistema de Varejo",
       "source": "Samais",
@@ -309,6 +290,25 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "9c97df8292",
+      "headline": "Com opções zero álcool, sem glúten e com menos calorias, Heineken® amplia portfólio",
+      "source": "Exame",
+      "link": "https://exame.com/negocios/zero-alcool-sem-gluten-calorias-heineken-portfolio/",
+      "time": "hoje, 15:08",
+      "dt_iso": "2026-08-31T18:08:28+00:00",
+      "summary": "À medida que os hábitos de consumo se diversificam, marca amplia seu portfólio e sua presença em novos contextos, das corridas de rua aos grandes festivais",
+      "category": "logistica",
+      "keywords": [
+        "heineken",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -389,12 +389,12 @@
     },
     {
       "id": "b23ecc487e",
-      "headline": "Golgi inclui novo galpão de 54 mil m² na sua unidade em Cajamar - modaisemfoco.com.br",
+      "headline": "Golgi inclui novo galpão de 54 mil m² na sua unidade em Cajamar - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
       "time": "27/08 às 15:34",
       "dt_iso": "2026-08-27T18:34:00+00:00",
-      "summary": "Golgi inclui novo galpão de 54 mil m² na sua unidade em Cajamar &nbsp;&nbsp; modaisemfoco.com.br",
+      "summary": "Golgi inclui novo galpão de 54 mil m² na sua unidade em Cajamar &nbsp;&nbsp; Modais em Foco",
       "category": "expansao",
       "keywords": [
         "galpão",
@@ -408,12 +408,12 @@
     },
     {
       "id": "0cebc86174",
-      "headline": "naPorta expande operação logística para MG e ES - modaisemfoco.com.br",
+      "headline": "naPorta expande operação logística para MG e ES - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://modaisemfoco.com.br",
       "time": "27/08 às 10:58",
       "dt_iso": "2026-08-27T13:58:00+00:00",
-      "summary": "naPorta expande operação logística para MG e ES &nbsp;&nbsp; modaisemfoco.com.br",
+      "summary": "naPorta expande operação logística para MG e ES &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "operação logística",
@@ -427,12 +427,12 @@
     },
     {
       "id": "da15871478",
-      "headline": "Suzano investe em tecnologia contra incêndios florestais - modaisemfoco.com.br",
+      "headline": "Suzano investe em tecnologia contra incêndios florestais - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
       "time": "hoje, 08:13",
       "dt_iso": "2026-08-31T11:13:00+00:00",
-      "summary": "Suzano investe em tecnologia contra incêndios florestais &nbsp;&nbsp; modaisemfoco.com.br",
+      "summary": "Suzano investe em tecnologia contra incêndios florestais &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "suzano",
@@ -516,6 +516,25 @@
       ],
       "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "113bfa667e",
+      "headline": "Prefeitura inaugura 8º Armazém Solidário da cidade na região com maior concentração de famílias no CadÚnico - Prefeitura de São Paulo",
+      "source": "Prefeitura",
+      "link": "https://prefeitura.sp.gov.br",
+      "time": "27/08 às 13:11",
+      "dt_iso": "2026-08-27T16:11:23+00:00",
+      "summary": "Prefeitura inaugura 8º Armazém Solidário da cidade na região com maior concentração de famílias no CadÚnico &nbsp;&nbsp; Prefeitura de São Paulo",
+      "category": "logistica",
+      "keywords": [
+        "armazém",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -616,25 +635,6 @@
       ]
     },
     {
-      "id": "02c25bc64d",
-      "headline": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "há 57 min",
-      "dt_iso": "2026-08-31T15:29:00+00:00",
-      "summary": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP &nbsp;&nbsp; Money Times",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "073f4fd6c3",
       "headline": "Habib's, Casas Bahia, Grupo Toky: por que cresce a lista de empresas pedindo recuperação judicial no país? Entenda - O GLOBO",
       "source": "O Globo",
@@ -693,12 +693,12 @@
     },
     {
       "id": "0e6c2bf587",
-      "headline": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões - Revista Oeste",
+      "headline": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões - revistaoeste.com",
       "source": "Revistaoeste",
       "link": "https://revistaoeste.com",
       "time": "29/08 às 12:50",
       "dt_iso": "2026-08-29T15:50:07+00:00",
-      "summary": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões &nbsp;&nbsp; Revista Oeste",
+      "summary": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões &nbsp;&nbsp; revistaoeste.com",
       "category": "logistica",
       "keywords": [
         "casas bahia",
