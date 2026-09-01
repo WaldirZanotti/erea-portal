@@ -1,5 +1,5 @@
 {
-  "gerado_em": "01/09/2026 às 10:44",
+  "gerado_em": "01/09/2026 às 16:11",
   "total": 28,
   "noticias": [
     {
@@ -126,12 +126,12 @@
     },
     {
       "id": "b3d881ee7e",
-      "headline": "Casas Bahia pode devolver 540 mil m² de galpões logísticos; veja onde estão os imóveis - Times Brasil | CNBC",
+      "headline": "Casas Bahia pode devolver 540 mil m² de galpões logísticos; veja onde estão os imóveis - timesbrasil.com.br",
       "source": "Timesbrasil",
       "link": "https://timesbrasil.com.br",
       "time": "25/08 às 16:30",
       "dt_iso": "2026-08-25T19:30:00+00:00",
-      "summary": "Casas Bahia pode devolver 540 mil m² de galpões logísticos; veja onde estão os imóveis &nbsp;&nbsp; Times Brasil | CNBC",
+      "summary": "Casas Bahia pode devolver 540 mil m² de galpões logísticos; veja onde estão os imóveis &nbsp;&nbsp; timesbrasil.com.br",
       "category": "logistica",
       "keywords": [
         "casas bahia",
@@ -164,25 +164,6 @@
       ]
     },
     {
-      "id": "8401b0a175",
-      "headline": "Shein estreia na bolsa com ações em queda. Agora, precisa provar que pode voltar a crescer",
-      "source": "Exame",
-      "link": "https://exame.com/invest/mercados/shein-estreia-na-bolsa-com-acoes-em-queda-agora-precisa-provar-que-pode-voltar-a-crescer/",
-      "time": "hoje, 05:53",
-      "dt_iso": "2026-09-01T08:53:02+00:00",
-      "summary": "Shein levantou US$ 1,74 bilhão no IPO e chegou à bolsa avaliada em US$ 26,5 bilhões",
-      "category": "logistica",
-      "keywords": [
-        "shein",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "02c25bc64d",
       "headline": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP - InfoMoney",
       "source": "InfoMoney",
@@ -203,12 +184,12 @@
     },
     {
       "id": "9f79d69f14",
-      "headline": "C&A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030 - dcomercio.com.br",
+      "headline": "C&A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030 - DComercio",
       "source": "Dcomercio",
       "link": "https://dcomercio.com.br",
       "time": "26/08 às 13:00",
       "dt_iso": "2026-08-26T16:00:00+00:00",
-      "summary": "C&amp;A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030 &nbsp;&nbsp; dcomercio.com.br",
+      "summary": "C&amp;A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030 &nbsp;&nbsp; DComercio",
       "category": "expansao",
       "keywords": [
         "c&a",
@@ -218,25 +199,6 @@
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "bce08142ab",
-      "headline": "Scania amplia centro de distribuição de peças em Vinhedo - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "25/08 às 16:37",
-      "dt_iso": "2026-08-25T19:37:31+00:00",
-      "summary": "Scania amplia centro de distribuição de peças em Vinhedo &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -259,11 +221,30 @@
       ]
     },
     {
+      "id": "bce08142ab",
+      "headline": "Scania amplia centro de distribuição de peças em Vinhedo - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "25/08 às 16:37",
+      "dt_iso": "2026-08-25T19:37:31+00:00",
+      "summary": "Scania amplia centro de distribuição de peças em Vinhedo &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "a0b20df4df",
       "headline": "Teka amplia estrutura logística com centro de distribuição em Nova Odessa - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 10:59",
+      "time": "ontem, 10:59",
       "dt_iso": "2026-08-31T13:59:17+00:00",
       "summary": "Teka amplia estrutura logística com centro de distribuição em Nova Odessa &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -355,12 +336,12 @@
     },
     {
       "id": "bacbef48b3",
-      "headline": "BTLG11 desembolsa R$ 375 milhões por galpão logístico em São Paulo e vê espaço para elevar aluguel; confira os detalhes da operação - Seu Dinheiro",
+      "headline": "BTLG11 desembolsa R$ 375 milhões por galpão logístico em São Paulo e vê espaço para elevar aluguel; confira os detalhes da operação - seudinheiro.com",
       "source": "Seudinheiro",
       "link": "https://www.seudinheiro.com",
       "time": "27/08 às 10:21",
       "dt_iso": "2026-08-27T13:21:10+00:00",
-      "summary": "BTLG11 desembolsa R$ 375 milhões por galpão logístico em São Paulo e vê espaço para elevar aluguel; confira os detalhes da operação &nbsp;&nbsp; Seu Dinheiro",
+      "summary": "BTLG11 desembolsa R$ 375 milhões por galpão logístico em São Paulo e vê espaço para elevar aluguel; confira os detalhes da operação &nbsp;&nbsp; seudinheiro.com",
       "category": "logistica",
       "keywords": [
         "galpão",
@@ -392,11 +373,30 @@
       ]
     },
     {
+      "id": "da070efd83",
+      "headline": "C&A inaugura loja na Paulista com coleção 100% circular - CicloVivo",
+      "source": "Ciclovivo",
+      "link": "https://ciclovivo.com.br",
+      "time": "28/08 às 15:18",
+      "dt_iso": "2026-08-28T18:18:28+00:00",
+      "summary": "C&amp;A inaugura loja na Paulista com coleção 100% circular &nbsp;&nbsp; CicloVivo",
+      "category": "logistica",
+      "keywords": [
+        "c&a",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "40c46f743a",
       "headline": "Como a expansão da Shein transformou a logística do varejo no Brasil - Estado de Minas",
       "source": "Google News",
       "link": "https://www.em.com.br",
-      "time": "hoje, 11:25",
+      "time": "ontem, 11:25",
       "dt_iso": "2026-08-31T14:25:00+00:00",
       "summary": "Como a expansão da Shein transformou a logística do varejo no Brasil &nbsp;&nbsp; Estado de Minas",
       "category": "expansao",
@@ -431,12 +431,12 @@
     },
     {
       "id": "aa2d3f2c63",
-      "headline": "Madesa investe R$ 51 milhões em novo centro de distribuição e mira dobrar participação internacional - Times Brasil | CNBC",
+      "headline": "Madesa investe R$ 51 milhões em novo centro de distribuição e mira dobrar participação internacional - timesbrasil.com.br",
       "source": "Timesbrasil",
       "link": "https://timesbrasil.com.br",
       "time": "26/08 às 08:13",
       "dt_iso": "2026-08-26T11:13:27+00:00",
-      "summary": "Madesa investe R$ 51 milhões em novo centro de distribuição e mira dobrar participação internacional &nbsp;&nbsp; Times Brasil | CNBC",
+      "summary": "Madesa investe R$ 51 milhões em novo centro de distribuição e mira dobrar participação internacional &nbsp;&nbsp; timesbrasil.com.br",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -450,12 +450,12 @@
     },
     {
       "id": "e2ab86ba44",
-      "headline": "Enquanto Havan finaliza o maior centro de distribuição da América Latina, rede com 1.250 farmácias investe R$ 60 milhões em seu CD - A Crítica",
+      "headline": "Enquanto Havan finaliza o maior centro de distribuição da América Latina, rede com 1.250 farmácias investe R$ 60 milhões em seu CD - acritica.com",
       "source": "Acritica",
       "link": "https://acritica.com",
       "time": "29/08 às 07:15",
       "dt_iso": "2026-08-29T10:15:00+00:00",
-      "summary": "Enquanto Havan finaliza o maior centro de distribuição da América Latina, rede com 1.250 farmácias investe R$ 60 milhões em seu CD &nbsp;&nbsp; A Crítica",
+      "summary": "Enquanto Havan finaliza o maior centro de distribuição da América Latina, rede com 1.250 farmácias investe R$ 60 milhões em seu CD &nbsp;&nbsp; acritica.com",
       "category": "investimento",
       "keywords": [
         "centro de distribuição",
@@ -469,12 +469,12 @@
     },
     {
       "id": "073f4fd6c3",
-      "headline": "Habib's, Casas Bahia, Grupo Toky: por que cresce a lista de empresas pedindo recuperação judicial no país? Entenda - O GLOBO",
+      "headline": "Habib's, Casas Bahia, Grupo Toky: por que cresce a lista de empresas pedindo recuperação judicial no país? Entenda - oglobo.globo.com",
       "source": "O Globo",
       "link": "https://oglobo.globo.com",
       "time": "27/08 às 00:26",
       "dt_iso": "2026-08-27T03:26:26+00:00",
-      "summary": "Habib's, Casas Bahia, Grupo Toky: por que cresce a lista de empresas pedindo recuperação judicial no país? Entenda &nbsp;&nbsp; O GLOBO",
+      "summary": "Habib's, Casas Bahia, Grupo Toky: por que cresce a lista de empresas pedindo recuperação judicial no país? Entenda &nbsp;&nbsp; oglobo.globo.com",
       "category": "alerta",
       "keywords": [
         "casas bahia",
