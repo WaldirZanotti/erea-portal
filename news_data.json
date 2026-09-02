@@ -1,7 +1,29 @@
 {
-  "gerado_em": "02/09/2026 às 10:01",
-  "total": 27,
+  "gerado_em": "02/09/2026 às 16:12",
+  "total": 26,
   "noticias": [
+    {
+      "id": "5b0e1429f0",
+      "headline": "A empresa dele cresceu 1.592% ajudando indústrias a cortar custos e fatura R$ 179 milhões",
+      "source": "Exame",
+      "link": "https://exame.com/negocios/a-empresa-dele-cresceu-1-592-ajudando-industrias-a-cortar-custos-e-fatura-r-179-milhoes/",
+      "time": "hoje, 11:57",
+      "dt_iso": "2026-09-02T14:57:45+00:00",
+      "summary": "Muv Rental cresceu ao ampliar contratos de gestão de equipamentos com indústrias; em projeto da Suzano, ajudou a reduzir de 45 para 27 o número de guindastes alugados",
+      "category": "logistica",
+      "keywords": [
+        "suzano",
+        "amplia",
+        "cresce",
+        "cresceu",
+        "aluga"
+      ],
+      "score": 9,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
     {
       "id": "61852e2112",
       "headline": "Corrida por entregas rápidas entre Mercado Livre, Amazon e Shopee aquece mercado de galpões - MundoLogística",
@@ -66,6 +88,48 @@
       ]
     },
     {
+      "id": "8b218eba53",
+      "headline": "Magalu faz parceria com Mercado Livre fecham parceria de venda e operação logística - jc.uol.com.br",
+      "source": "UOL",
+      "link": "https://jc.uol.com.br",
+      "time": "hoje, 13:26",
+      "dt_iso": "2026-09-02T16:26:00+00:00",
+      "summary": "Magalu faz parceria com Mercado Livre fecham parceria de venda e operação logística &nbsp;&nbsp; jc.uol.com.br",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "magalu",
+        "operação logística"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "f55fe437e4",
+      "headline": "Disney+ Benefícios é ampliado no Brasil com vantagens no Mercado Livre, Renner e McDonald's - TudoCelular.com",
+      "source": "Tudocelular",
+      "link": "https://www.tudocelular.com",
+      "time": "27/08 às 12:20",
+      "dt_iso": "2026-08-27T15:20:45+00:00",
+      "summary": "Disney+ Benefícios é ampliado no Brasil com vantagens no Mercado Livre, Renner e McDonald's &nbsp;&nbsp; TudoCelular.com",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "renner",
+        "amplia",
+        "ampliado"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "1e8466e906",
       "headline": "Madero inaugura expansão de cozinha central e centro de distribuição - Diário dos Campos",
       "source": "Dcmais",
@@ -86,25 +150,6 @@
       ]
     },
     {
-      "id": "314b0f3d22",
-      "headline": "Mercado Livre irá abrir centro de distribuição em Juiz de Fora com 800 vagas de emprego; saiba como se candidatar - G1",
-      "source": "G1",
-      "link": "https://g1.globo.com",
-      "time": "ontem, 08:55",
-      "dt_iso": "2026-09-01T11:55:02+00:00",
-      "summary": "Mercado Livre irá abrir centro de distribuição em Juiz de Fora com 800 vagas de emprego; saiba como se candidatar &nbsp;&nbsp; G1",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "d2114429b7",
       "headline": "Mutirão de empregos: Juiz de Fora ganhará centro de distribuição do Mercado Livre - Terra",
       "source": "Terra",
@@ -119,6 +164,25 @@
       ],
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "6c1be92a90",
+      "headline": "Mercado Livre irá abrir centro de distribuição em Juiz de Fora com 800 vagas de emprego; saiba como se candidatar - g1.globo.com",
+      "source": "G1",
+      "link": "https://g1.globo.com",
+      "time": "ontem, 08:55",
+      "dt_iso": "2026-09-01T11:55:02+00:00",
+      "summary": "Mercado Livre irá abrir centro de distribuição em Juiz de Fora com 800 vagas de emprego; saiba como se candidatar &nbsp;&nbsp; g1.globo.com",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa.",
       "badges": [
         "E-commerce"
       ]
@@ -163,25 +227,6 @@
       ]
     },
     {
-      "id": "9f79d69f14",
-      "headline": "C&A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030 - DComercio",
-      "source": "Dcomercio",
-      "link": "https://dcomercio.com.br",
-      "time": "26/08 às 13:00",
-      "dt_iso": "2026-08-26T16:00:00+00:00",
-      "summary": "C&amp;A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030 &nbsp;&nbsp; DComercio",
-      "category": "expansao",
-      "keywords": [
-        "c&a",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "edad69a61a",
       "headline": "naPorta expande operação logística para Minas Gerais e Espírito Santo - MundoLogística",
       "source": "Mundo Logística",
@@ -201,11 +246,30 @@
       ]
     },
     {
+      "id": "1d6f88dfd3",
+      "headline": "Americanas abre 769 vagas temporárias em logística para a Black Friday - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 11:35",
+      "dt_iso": "2026-09-02T14:35:23+00:00",
+      "summary": "Americanas abre 769 vagas temporárias em logística para a Black Friday &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "americanas",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "a0b20df4df",
       "headline": "Teka amplia estrutura logística com centro de distribuição em Nova Odessa - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 10:59",
+      "time": "31/08 às 10:59",
       "dt_iso": "2026-08-31T13:59:17+00:00",
       "summary": "Teka amplia estrutura logística com centro de distribuição em Nova Odessa &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -221,12 +285,12 @@
     },
     {
       "id": "b23ecc487e",
-      "headline": "Golgi inclui novo galpão de 54 mil m² na sua unidade em Cajamar - modaisemfoco.com.br",
+      "headline": "Golgi inclui novo galpão de 54 mil m² na sua unidade em Cajamar - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
       "time": "27/08 às 15:34",
       "dt_iso": "2026-08-27T18:34:00+00:00",
-      "summary": "Golgi inclui novo galpão de 54 mil m² na sua unidade em Cajamar &nbsp;&nbsp; modaisemfoco.com.br",
+      "summary": "Golgi inclui novo galpão de 54 mil m² na sua unidade em Cajamar &nbsp;&nbsp; Modais em Foco",
       "category": "expansao",
       "keywords": [
         "galpão",
@@ -240,12 +304,12 @@
     },
     {
       "id": "0cebc86174",
-      "headline": "naPorta expande operação logística para MG e ES - modaisemfoco.com.br",
+      "headline": "naPorta expande operação logística para MG e ES - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://modaisemfoco.com.br",
       "time": "27/08 às 10:58",
       "dt_iso": "2026-08-27T13:58:00+00:00",
-      "summary": "naPorta expande operação logística para MG e ES &nbsp;&nbsp; modaisemfoco.com.br",
+      "summary": "naPorta expande operação logística para MG e ES &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "operação logística",
@@ -259,12 +323,12 @@
     },
     {
       "id": "da15871478",
-      "headline": "Suzano investe em tecnologia contra incêndios florestais - modaisemfoco.com.br",
+      "headline": "Suzano investe em tecnologia contra incêndios florestais - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
       "time": "31/08 às 08:13",
       "dt_iso": "2026-08-31T11:13:00+00:00",
-      "summary": "Suzano investe em tecnologia contra incêndios florestais &nbsp;&nbsp; modaisemfoco.com.br",
+      "summary": "Suzano investe em tecnologia contra incêndios florestais &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "suzano",
@@ -297,12 +361,12 @@
     },
     {
       "id": "bacbef48b3",
-      "headline": "BTLG11 desembolsa R$ 375 milhões por galpão logístico em São Paulo e vê espaço para elevar aluguel; confira os detalhes da operação - Seu Dinheiro",
+      "headline": "BTLG11 desembolsa R$ 375 milhões por galpão logístico em São Paulo e vê espaço para elevar aluguel; confira os detalhes da operação - seudinheiro.com",
       "source": "Seudinheiro",
       "link": "https://www.seudinheiro.com",
       "time": "27/08 às 10:21",
       "dt_iso": "2026-08-27T13:21:10+00:00",
-      "summary": "BTLG11 desembolsa R$ 375 milhões por galpão logístico em São Paulo e vê espaço para elevar aluguel; confira os detalhes da operação &nbsp;&nbsp; Seu Dinheiro",
+      "summary": "BTLG11 desembolsa R$ 375 milhões por galpão logístico em São Paulo e vê espaço para elevar aluguel; confira os detalhes da operação &nbsp;&nbsp; seudinheiro.com",
       "category": "logistica",
       "keywords": [
         "galpão",
@@ -319,8 +383,8 @@
       "headline": "Prefeitura inaugura 8º Armazém Solidário da cidade na região com maior concentração de famílias no CadÚnico - Prefeitura de São Paulo",
       "source": "Prefeitura",
       "link": "https://prefeitura.sp.gov.br",
-      "time": "27/08 às 13:52",
-      "dt_iso": "2026-08-27T16:52:58+00:00",
+      "time": "27/08 às 13:11",
+      "dt_iso": "2026-08-27T16:11:23+00:00",
       "summary": "Prefeitura inaugura 8º Armazém Solidário da cidade na região com maior concentração de famílias no CadÚnico &nbsp;&nbsp; Prefeitura de São Paulo",
       "category": "logistica",
       "keywords": [
@@ -334,49 +398,11 @@
       ]
     },
     {
-      "id": "02fd780133",
-      "headline": "Atacadão inaugura quarta loja em Maceió (AL) - SuperVarejo",
-      "source": "Supervarejo",
-      "link": "https://www.supervarejo.com.br",
-      "time": "27/08 às 15:19",
-      "dt_iso": "2026-08-27T18:19:38+00:00",
-      "summary": "Atacadão inaugura quarta loja em Maceió (AL) &nbsp;&nbsp; SuperVarejo",
-      "category": "logistica",
-      "keywords": [
-        "atacadão",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "16db450342",
-      "headline": "Atacadão amplia presença no norte do Tocantins e na capital Alagoana - SuperHiper",
-      "source": "Superhiper",
-      "link": "https://www.superhiper.com.br",
-      "time": "28/08 às 10:12",
-      "dt_iso": "2026-08-28T13:12:24+00:00",
-      "summary": "Atacadão amplia presença no norte do Tocantins e na capital Alagoana &nbsp;&nbsp; SuperHiper",
-      "category": "logistica",
-      "keywords": [
-        "atacadão",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "40c46f743a",
       "headline": "Como a expansão da Shein transformou a logística do varejo no Brasil - Estado de Minas",
       "source": "Google News",
       "link": "https://www.em.com.br",
-      "time": "ontem, 11:25",
+      "time": "31/08 às 11:25",
       "dt_iso": "2026-08-31T14:25:00+00:00",
       "summary": "Como a expansão da Shein transformou a logística do varejo no Brasil &nbsp;&nbsp; Estado de Minas",
       "category": "expansao",
@@ -448,25 +474,6 @@
       ]
     },
     {
-      "id": "073f4fd6c3",
-      "headline": "Habib's, Casas Bahia, Grupo Toky: por que cresce a lista de empresas pedindo recuperação judicial no país? Entenda - O GLOBO",
-      "source": "O Globo",
-      "link": "https://oglobo.globo.com",
-      "time": "27/08 às 00:26",
-      "dt_iso": "2026-08-27T03:26:26+00:00",
-      "summary": "Habib's, Casas Bahia, Grupo Toky: por que cresce a lista de empresas pedindo recuperação judicial no país? Entenda &nbsp;&nbsp; O GLOBO",
-      "category": "alerta",
-      "keywords": [
-        "casas bahia",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "⚠ Sinal negativo — empresa pode devolver imóveis logísticos. Monitorar rescisões de contrato.",
-      "badges": [
-        "Alerta"
-      ]
-    },
-    {
       "id": "7797498ffd",
       "headline": "Shein abre capital e pressiona varejo brasileiro em crise - Tribuna do Paraná",
       "source": "Tribunapr",
@@ -488,8 +495,8 @@
     {
       "id": "2b07d5d67a",
       "headline": "C&A vai na contramão do varejo e inaugura loja conceito na Avenida Paulista - DComercio",
-      "source": "Agenciadcnews",
-      "link": "https://agenciadcnews.com.br",
+      "source": "Dcomercio",
+      "link": "https://dcomercio.com.br",
       "time": "27/08 às 17:00",
       "dt_iso": "2026-08-27T20:00:00+00:00",
       "summary": "C&amp;A vai na contramão do varejo e inaugura loja conceito na Avenida Paulista &nbsp;&nbsp; DComercio",
@@ -500,25 +507,6 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "468ff9ebbe",
-      "headline": "Casas Bahia cai 56% em agosto e amplia pressão sobre ações do varejo - Estadão",
-      "source": "Estadão",
-      "link": "https://www.estadao.com.br",
-      "time": "30/08 às 10:00",
-      "dt_iso": "2026-08-30T13:00:00+00:00",
-      "summary": "Casas Bahia cai 56% em agosto e amplia pressão sobre ações do varejo &nbsp;&nbsp; Estadão",
-      "category": "logistica",
-      "keywords": [
-        "casas bahia",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
