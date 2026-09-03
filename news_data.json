@@ -1,29 +1,7 @@
 {
-  "gerado_em": "03/09/2026 às 10:03",
-  "total": 14,
+  "gerado_em": "03/09/2026 às 16:04",
+  "total": 21,
   "noticias": [
-    {
-      "id": "a03abf4602",
-      "headline": "Grupo Magalu firma parceria com Mercado Livre e amplia operação logística - Giro News",
-      "source": "Gironews",
-      "link": "https://gironews.com",
-      "time": "hoje, 10:30",
-      "dt_iso": "2026-09-02T13:30:35+00:00",
-      "summary": "Grupo Magalu firma parceria com Mercado Livre e amplia operação logística &nbsp;&nbsp; Giro News",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "magalu",
-        "operação logística",
-        "amplia"
-      ],
-      "score": 9,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
     {
       "id": "61852e2112",
       "headline": "Corrida por entregas rápidas entre Mercado Livre, Amazon e Shopee aquece mercado de galpões - MundoLogística",
@@ -43,6 +21,27 @@
       "badges": [
         "Destaque",
         "E-commerce"
+      ]
+    },
+    {
+      "id": "b9ad177234",
+      "headline": "AGCO inaugura novo centro de distribuição de peças na Califórnia - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "source": "Google News",
+      "link": "https://br.investing.com",
+      "time": "31/08 às 09:21",
+      "dt_iso": "2026-08-31T12:21:00+00:00",
+      "summary": "AGCO inaugura novo centro de distribuição de peças na Califórnia &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -67,11 +66,70 @@
       ]
     },
     {
+      "id": "e4f750646a",
+      "headline": "Magalu faz parceria com Mercado Livre fecham parceria de venda e operação logística - JC",
+      "source": "UOL",
+      "link": "https://jc.uol.com.br",
+      "time": "ontem, 13:26",
+      "dt_iso": "2026-09-02T16:26:00+00:00",
+      "summary": "Magalu faz parceria com Mercado Livre fecham parceria de venda e operação logística &nbsp;&nbsp; JC",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "magalu",
+        "operação logística"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "314b0f3d22",
+      "headline": "Mercado Livre irá abrir centro de distribuição em Juiz de Fora com 800 vagas de emprego; saiba como se candidatar - G1",
+      "source": "G1",
+      "link": "https://g1.globo.com",
+      "time": "01/09 às 08:55",
+      "dt_iso": "2026-09-01T11:55:02+00:00",
+      "summary": "Mercado Livre irá abrir centro de distribuição em Juiz de Fora com 800 vagas de emprego; saiba como se candidatar &nbsp;&nbsp; G1",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "d2114429b7",
+      "headline": "Mutirão de empregos: Juiz de Fora ganhará centro de distribuição do Mercado Livre - Terra",
+      "source": "Terra",
+      "link": "https://www.terra.com.br",
+      "time": "28/08 às 15:17",
+      "dt_iso": "2026-08-28T18:17:00+00:00",
+      "summary": "Mutirão de empregos: Juiz de Fora ganhará centro de distribuição do Mercado Livre &nbsp;&nbsp; Terra",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "e6e7ad519e",
       "headline": "Magalu leva 27 mil produtos ao Mercado Livre em nova ofensiva para ampliar vendas online - Balada IN",
       "source": "Portalin",
       "link": "https://www.portalin.com.br",
-      "time": "hoje, 11:15",
+      "time": "ontem, 11:15",
       "dt_iso": "2026-09-02T14:15:00+00:00",
       "summary": "Magalu leva 27 mil produtos ao Mercado Livre em nova ofensiva para ampliar vendas online &nbsp;&nbsp; Balada IN",
       "category": "ecommerce",
@@ -84,6 +142,26 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "724e95c17c",
+      "headline": "Magazine Luiza e Mercado Livre fazem parceria e ampliam canais de venda e logística - Jornal da Franca",
+      "source": "Jornaldafranca",
+      "link": "https://www.jornaldafranca.com.br",
+      "time": "hoje, 10:00",
+      "dt_iso": "2026-09-03T13:00:00+00:00",
+      "summary": "Magazine Luiza e Mercado Livre fazem parceria e ampliam canais de venda e logística &nbsp;&nbsp; Jornal da Franca",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "magazine luiza",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -107,11 +185,30 @@
       ]
     },
     {
+      "id": "5ff93df2e8",
+      "headline": "Amazon abre primeiro centro de distribuição no PR de olho nas entregas no mesmo dia - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "hoje, 14:32",
+      "dt_iso": "2026-09-03T17:32:00+00:00",
+      "summary": "Amazon abre primeiro centro de distribuição no PR de olho nas entregas no mesmo dia &nbsp;&nbsp; Money Times",
+      "category": "ecommerce",
+      "keywords": [
+        "centro de distribuição",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "1d6f88dfd3",
       "headline": "Americanas abre 769 vagas temporárias em logística para a Black Friday - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 11:34",
+      "time": "ontem, 11:34",
       "dt_iso": "2026-09-02T14:34:43+00:00",
       "summary": "Americanas abre 769 vagas temporárias em logística para a Black Friday &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -140,25 +237,6 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "0cebc86174",
-      "headline": "naPorta expande operação logística para MG e ES - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://modaisemfoco.com.br",
-      "time": "27/08 às 10:58",
-      "dt_iso": "2026-08-27T13:58:00+00:00",
-      "summary": "naPorta expande operação logística para MG e ES &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "operação logística",
-        "expande"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -221,6 +299,25 @@
       ]
     },
     {
+      "id": "cab88b31bb",
+      "headline": "Gigante global Amazon abre novo centro de distribuição na Grande Curitiba - Bem Paraná",
+      "source": "Bemparana",
+      "link": "https://www.bemparana.com.br",
+      "time": "hoje, 11:56",
+      "dt_iso": "2026-09-03T14:56:00+00:00",
+      "summary": "Gigante global Amazon abre novo centro de distribuição na Grande Curitiba &nbsp;&nbsp; Bem Paraná",
+      "category": "ecommerce",
+      "keywords": [
+        "centro de distribuição",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Região(ões) mencionada(s): Curitiba.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "e2ab86ba44",
       "headline": "Enquanto Havan finaliza o maior centro de distribuição da América Latina, rede com 1.250 farmácias investe R$ 60 milhões em seu CD - A Crítica",
       "source": "Acritica",
@@ -240,22 +337,41 @@
       ]
     },
     {
-      "id": "e9aa747f9b",
-      "headline": "Bauducco escolhe Stefano Mozzi como CEO para acelerar expansão internacional - Portal IN - Pompeu Vasconcelos - Balada IN",
-      "source": "Portalin",
-      "link": "https://www.portalin.com.br",
-      "time": "ontem, 16:55",
-      "dt_iso": "2026-09-01T19:55:00+00:00",
-      "summary": "Bauducco escolhe Stefano Mozzi como CEO para acelerar expansão internacional - Portal IN - Pompeu Vasconcelos &nbsp;&nbsp; Balada IN",
-      "category": "expansao",
+      "id": "02c25bc64d",
+      "headline": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "31/08 às 12:29",
+      "dt_iso": "2026-08-31T15:29:00+00:00",
+      "summary": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP &nbsp;&nbsp; Money Times",
+      "category": "logistica",
       "keywords": [
-        "bauducco",
-        "expansão"
+        "centro de distribuição",
+        "investe"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Expansão"
+        "Logística"
+      ]
+    },
+    {
+      "id": "7797498ffd",
+      "headline": "Shein abre capital e pressiona varejo brasileiro em crise - Tribuna do Paraná",
+      "source": "Tribunapr",
+      "link": "https://www.tribunapr.com.br",
+      "time": "01/09 às 00:07",
+      "dt_iso": "2026-09-01T03:07:00+00:00",
+      "summary": "Shein abre capital e pressiona varejo brasileiro em crise &nbsp;&nbsp; Tribuna do Paraná",
+      "category": "investimento",
+      "keywords": [
+        "shein",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -273,6 +389,25 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "468ff9ebbe",
+      "headline": "Casas Bahia cai 56% em agosto e amplia pressão sobre ações do varejo - Estadão",
+      "source": "Estadão",
+      "link": "https://www.estadao.com.br",
+      "time": "30/08 às 10:00",
+      "dt_iso": "2026-08-30T13:00:00+00:00",
+      "summary": "Casas Bahia cai 56% em agosto e amplia pressão sobre ações do varejo &nbsp;&nbsp; Estadão",
+      "category": "logistica",
+      "keywords": [
+        "casas bahia",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
