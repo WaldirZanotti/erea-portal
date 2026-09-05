@@ -1,5 +1,5 @@
 {
-  "gerado_em": "05/09/2026 às 09:10",
+  "gerado_em": "05/09/2026 às 14:54",
   "total": 26,
   "noticias": [
     {
@@ -7,7 +7,7 @@
       "headline": "DHL Supply Chain amplia operação logística da Bristol Myers Squibb em Extrema (MG) - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 11:40",
+      "time": "ontem, 11:40",
       "dt_iso": "2026-09-04T14:40:28+00:00",
       "summary": "DHL Supply Chain amplia operação logística da Bristol Myers Squibb em Extrema (MG) &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -51,7 +51,7 @@
       "headline": "Mercado Livre terá a maior locação de galpão do Brasil - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 10:29",
+      "time": "ontem, 10:29",
       "dt_iso": "2026-09-04T13:29:35+00:00",
       "summary": "Mercado Livre terá a maior locação de galpão do Brasil &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -133,7 +133,7 @@
       "headline": "FII de logística do BTG negocia compra de galpões locados para Mercado Livre e Amazon por R$ 918,5 milhões - Money Times",
       "source": "Money Times",
       "link": "https://www.moneytimes.com.br",
-      "time": "hoje, 10:34",
+      "time": "ontem, 10:34",
       "dt_iso": "2026-09-04T13:34:00+00:00",
       "summary": "FII de logística do BTG negocia compra de galpões locados para Mercado Livre e Amazon por R$ 918,5 milhões &nbsp;&nbsp; Money Times",
       "category": "ecommerce",
@@ -167,13 +167,13 @@
       ]
     },
     {
-      "id": "8438baa41b",
-      "headline": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante - Grupo Jota Sidney",
-      "source": "Irecelider",
-      "link": "https://www.irecelider.com.br",
-      "time": "hoje, 06:18",
-      "dt_iso": "2026-09-05T09:18:32+00:00",
-      "summary": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante &nbsp;&nbsp; Grupo Jota Sidney",
+      "id": "28f9ebc003",
+      "headline": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante - G1",
+      "source": "G1",
+      "link": "https://g1.globo.com",
+      "time": "hoje, 06:00",
+      "dt_iso": "2026-09-05T09:00:01+00:00",
+      "summary": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante &nbsp;&nbsp; G1",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -183,6 +183,26 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "e3c45e9cf9",
+      "headline": "MERCADO LIVRE ABRE NOVA UNIDADE NA ANTIGA FÁBRICA DA TOYOTA, EM SÃO BERNARDO - TV São Bernardo",
+      "source": "Tvsaobernardo",
+      "link": "https://tvsaobernardo.com",
+      "time": "ontem, 09:06",
+      "dt_iso": "2026-09-04T12:06:23+00:00",
+      "summary": "MERCADO LIVRE ABRE NOVA UNIDADE NA ANTIGA FÁBRICA DA TOYOTA, EM SÃO BERNARDO &nbsp;&nbsp; TV São Bernardo",
+      "category": "expansao",
+      "keywords": [
+        "mercado livre",
+        "abre",
+        "nova unidade"
+      ],
+      "score": 7,
+      "relevance": "Região(ões) mencionada(s): São Bernardo.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -246,12 +266,12 @@
     },
     {
       "id": "02c25bc64d",
-      "headline": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP - infomoney.com.br",
+      "headline": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
       "time": "31/08 às 17:22",
       "dt_iso": "2026-08-31T20:22:28+00:00",
-      "summary": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP &nbsp;&nbsp; infomoney.com.br",
+      "summary": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP &nbsp;&nbsp; InfoMoney",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -268,7 +288,7 @@
       "headline": "Amazon abre 1° centro de distribuição no PR para entregas no mesmo dia - CNN Brasil",
       "source": "CNN Brasil",
       "link": "https://www.cnnbrasil.com.br",
-      "time": "ontem, 14:48",
+      "time": "03/09 às 14:48",
       "dt_iso": "2026-09-03T17:48:20+00:00",
       "summary": "Amazon abre 1° centro de distribuição no PR para entregas no mesmo dia &nbsp;&nbsp; CNN Brasil",
       "category": "ecommerce",
@@ -322,12 +342,12 @@
     },
     {
       "id": "a0b20df4df",
-      "headline": "Teka amplia estrutura logística com centro de distribuição em Nova Odessa - Tecnologística",
+      "headline": "Teka amplia estrutura logística com centro de distribuição em Nova Odessa - tecnologistica.com.br",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "31/08 às 10:59",
       "dt_iso": "2026-08-31T13:59:17+00:00",
-      "summary": "Teka amplia estrutura logística com centro de distribuição em Nova Odessa &nbsp;&nbsp; Tecnologística",
+      "summary": "Teka amplia estrutura logística com centro de distribuição em Nova Odessa &nbsp;&nbsp; tecnologistica.com.br",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -363,7 +383,7 @@
       "headline": "Amazon inaugura CD no Paraná em parceria com a ID Logistics - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
-      "time": "ontem, 14:14",
+      "time": "03/09 às 14:14",
       "dt_iso": "2026-09-03T17:14:00+00:00",
       "summary": "Amazon inaugura CD no Paraná em parceria com a ID Logistics &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "ecommerce",
@@ -417,12 +437,12 @@
     },
     {
       "id": "7797498ffd",
-      "headline": "Shein abre capital e pressiona varejo brasileiro em crise - Tribuna do Paraná",
+      "headline": "Shein abre capital e pressiona varejo brasileiro em crise - tribunapr.com.br",
       "source": "Tribunapr",
       "link": "https://www.tribunapr.com.br",
       "time": "01/09 às 00:07",
       "dt_iso": "2026-09-01T03:07:00+00:00",
-      "summary": "Shein abre capital e pressiona varejo brasileiro em crise &nbsp;&nbsp; Tribuna do Paraná",
+      "summary": "Shein abre capital e pressiona varejo brasileiro em crise &nbsp;&nbsp; tribunapr.com.br",
       "category": "investimento",
       "keywords": [
         "shein",
@@ -435,32 +455,13 @@
       ]
     },
     {
-      "id": "0e6c2bf587",
-      "headline": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões - Revista Oeste",
-      "source": "Revistaoeste",
-      "link": "https://revistaoeste.com",
-      "time": "29/08 às 12:50",
-      "dt_iso": "2026-08-29T15:50:07+00:00",
-      "summary": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões &nbsp;&nbsp; Revista Oeste",
-      "category": "logistica",
-      "keywords": [
-        "casas bahia",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "461c7bf9e8",
-      "headline": "B2W Digital abre inscrições para programa de trainee e recruta talentos em TI - IT Forum - itforum.com.br",
+      "headline": "B2W Digital abre inscrições para programa de trainee e recruta talentos em TI - IT Forum - IT Forum",
       "source": "Itforum",
       "link": "https://itforum.com.br",
       "time": "ontem, 00:11",
       "dt_iso": "2026-09-04T03:11:31+00:00",
-      "summary": "B2W Digital abre inscrições para programa de trainee e recruta talentos em TI - IT Forum &nbsp;&nbsp; itforum.com.br",
+      "summary": "B2W Digital abre inscrições para programa de trainee e recruta talentos em TI - IT Forum &nbsp;&nbsp; IT Forum",
       "category": "investimento",
       "keywords": [
         "b2w",
@@ -493,12 +494,12 @@
     },
     {
       "id": "2fef3a918c",
-      "headline": "Natura nomeia Alessandro Carlucci como CEO para novo ciclo de expansão - brazilbeautynews.com",
+      "headline": "Natura nomeia Alessandro Carlucci como CEO para novo ciclo de expansão - Brazil Beauty News",
       "source": "Brazilbeautynews",
       "link": "https://www.brazilbeautynews.com",
       "time": "02/09 às 18:15",
       "dt_iso": "2026-09-02T21:15:57+00:00",
-      "summary": "Natura nomeia Alessandro Carlucci como CEO para novo ciclo de expansão &nbsp;&nbsp; brazilbeautynews.com",
+      "summary": "Natura nomeia Alessandro Carlucci como CEO para novo ciclo de expansão &nbsp;&nbsp; Brazil Beauty News",
       "category": "expansao",
       "keywords": [
         "natura",
