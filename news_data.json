@@ -1,5 +1,5 @@
 {
-  "gerado_em": "07/09/2026 às 11:31",
+  "gerado_em": "07/09/2026 às 16:35",
   "total": 24,
   "noticias": [
     {
@@ -94,7 +94,7 @@
       "headline": "Prefeitura de Suzano inicia construção da UBS Jardim Saúde, com inauguração prevista para 2027 - Hoje Diário",
       "source": "Hojediario",
       "link": "https://hojediario.com",
-      "time": "ontem, 13:27",
+      "time": "05/09 às 13:27",
       "dt_iso": "2026-09-05T16:27:11+00:00",
       "summary": "Prefeitura de Suzano inicia construção da UBS Jardim Saúde, com inauguração prevista para 2027 &nbsp;&nbsp; Hoje Diário",
       "category": "expansao",
@@ -132,13 +132,13 @@
       ]
     },
     {
-      "id": "8b218eba53",
-      "headline": "Magalu faz parceria com Mercado Livre fecham parceria de venda e operação logística - jc.uol.com.br",
+      "id": "e4f750646a",
+      "headline": "Magalu faz parceria com Mercado Livre fecham parceria de venda e operação logística - JC",
       "source": "UOL",
       "link": "https://jc.uol.com.br",
       "time": "02/09 às 13:26",
       "dt_iso": "2026-09-02T16:26:00+00:00",
-      "summary": "Magalu faz parceria com Mercado Livre fecham parceria de venda e operação logística &nbsp;&nbsp; jc.uol.com.br",
+      "summary": "Magalu faz parceria com Mercado Livre fecham parceria de venda e operação logística &nbsp;&nbsp; JC",
       "category": "logistica",
       "keywords": [
         "mercado livre",
@@ -150,6 +150,26 @@
       "badges": [
         "Destaque",
         "Logística"
+      ]
+    },
+    {
+      "id": "6080a0f074",
+      "headline": "Growth Supplements inaugura centro de distribuição em Minas para acelerar expansão no Sudeste - Diário do Comércio",
+      "source": "Diariodocomercio",
+      "link": "https://diariodocomercio.com.br",
+      "time": "ontem, 05:02",
+      "dt_iso": "2026-09-06T08:02:00+00:00",
+      "summary": "Growth Supplements inaugura centro de distribuição em Minas para acelerar expansão no Sudeste &nbsp;&nbsp; Diário do Comércio",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura",
+        "expansão"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -188,26 +208,6 @@
       "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "6080a0f074",
-      "headline": "Growth Supplements inaugura centro de distribuição em Minas para acelerar expansão no Sudeste - Diário do Comércio",
-      "source": "Diariodocomercio",
-      "link": "https://diariodocomercio.com.br",
-      "time": "ontem, 05:02",
-      "dt_iso": "2026-09-06T08:02:00+00:00",
-      "summary": "Growth Supplements inaugura centro de distribuição em Minas para acelerar expansão no Sudeste &nbsp;&nbsp; Diário do Comércio",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura",
-        "expansão"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -250,13 +250,13 @@
       ]
     },
     {
-      "id": "28f9ebc003",
-      "headline": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante - G1",
-      "source": "G1",
-      "link": "https://g1.globo.com",
-      "time": "05/09 às 06:00",
-      "dt_iso": "2026-09-05T09:00:01+00:00",
-      "summary": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante &nbsp;&nbsp; G1",
+      "id": "8438baa41b",
+      "headline": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante - Grupo Jota Sidney",
+      "source": "Irecelider",
+      "link": "https://www.irecelider.com.br",
+      "time": "05/09 às 06:18",
+      "dt_iso": "2026-09-05T09:18:32+00:00",
+      "summary": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante &nbsp;&nbsp; Grupo Jota Sidney",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -289,43 +289,22 @@
       ]
     },
     {
-      "id": "724e95c17c",
-      "headline": "Magazine Luiza e Mercado Livre fazem parceria e ampliam canais de venda e logística - Jornal da Franca",
-      "source": "Jornaldafranca",
-      "link": "https://www.jornaldafranca.com.br",
-      "time": "03/09 às 10:00",
-      "dt_iso": "2026-09-03T13:00:00+00:00",
-      "summary": "Magazine Luiza e Mercado Livre fazem parceria e ampliam canais de venda e logística &nbsp;&nbsp; Jornal da Franca",
+      "id": "02c25bc64d",
+      "headline": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "31/08 às 17:22",
+      "dt_iso": "2026-08-31T20:22:28+00:00",
+      "summary": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP &nbsp;&nbsp; InfoMoney",
       "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "magazine luiza",
-        "amplia"
+        "centro de distribuição",
+        "investe"
       ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "61db43e70f",
-      "headline": "Magalu abre loja no Mercado Livre e desiste de ser marketplace generalista: o que muda no e-commerce - BlockTrends",
-      "source": "Blocktrends",
-      "link": "https://blocktrends.com.br",
-      "time": "02/09 às 18:33",
-      "dt_iso": "2026-09-02T21:33:29+00:00",
-      "summary": "Magalu abre loja no Mercado Livre e desiste de ser marketplace generalista: o que muda no e-commerce &nbsp;&nbsp; BlockTrends",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "magalu",
-        "abre"
-      ],
-      "score": 7,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -386,6 +365,25 @@
       ]
     },
     {
+      "id": "75dcf57379",
+      "headline": "Growth Supplements instala centro de distribuição em Extrema (MG) - Giro News",
+      "source": "Gironews",
+      "link": "https://gironews.com",
+      "time": "04/09 às 14:56",
+      "dt_iso": "2026-09-04T17:56:41+00:00",
+      "summary": "Growth Supplements instala centro de distribuição em Extrema (MG) &nbsp;&nbsp; Giro News",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "instala"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Região(ões) mencionada(s): Extrema.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "9b1ddfcbb8",
       "headline": "Amazon inaugura CD no Paraná em parceria com a ID Logistics - Mercado&Consumo",
       "source": "Mercadoeconsumo",
@@ -406,12 +404,12 @@
     },
     {
       "id": "ee077b03af",
-      "headline": "IPO da Shein: abertura de capital aumenta pressão sobre o varejo no Brasil - Gazeta do Povo",
+      "headline": "IPO da Shein: abertura de capital aumenta pressão sobre o varejo no Brasil - gazetadopovo.com.br",
       "source": "Gazeta do Povo",
       "link": "https://www.gazetadopovo.com.br",
       "time": "01/09 às 01:16",
       "dt_iso": "2026-09-01T04:16:00+00:00",
-      "summary": "IPO da Shein: abertura de capital aumenta pressão sobre o varejo no Brasil &nbsp;&nbsp; Gazeta do Povo",
+      "summary": "IPO da Shein: abertura de capital aumenta pressão sobre o varejo no Brasil &nbsp;&nbsp; gazetadopovo.com.br",
       "category": "logistica",
       "keywords": [
         "shein",
