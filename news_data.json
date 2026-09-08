@@ -1,15 +1,15 @@
 {
-  "gerado_em": "08/09/2026 às 10:07",
-  "total": 23,
+  "gerado_em": "08/09/2026 às 16:15",
+  "total": 24,
   "noticias": [
     {
       "id": "a22335f313",
-      "headline": "DHL Supply Chain amplia operação logística da Bristol Myers Squibb em Extrema (MG) - MundoLogística",
+      "headline": "DHL Supply Chain amplia operação logística da Bristol Myers Squibb em Extrema (MG) - mundologistica.com.br",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "04/09 às 11:40",
       "dt_iso": "2026-09-04T14:40:28+00:00",
-      "summary": "DHL Supply Chain amplia operação logística da Bristol Myers Squibb em Extrema (MG) &nbsp;&nbsp; MundoLogística",
+      "summary": "DHL Supply Chain amplia operação logística da Bristol Myers Squibb em Extrema (MG) &nbsp;&nbsp; mundologistica.com.br",
       "category": "logistica",
       "keywords": [
         "dhl",
@@ -70,13 +70,13 @@
     },
     {
       "id": "faeedc8d02",
-      "headline": "Mercado Livre terá a maior locação de galpão do Brasil - MundoLogística",
+      "headline": "Mercado Livre terá a maior locação de galpão do Brasil - mundologistica.com.br",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "04/09 às 10:29",
       "dt_iso": "2026-09-04T13:29:35+00:00",
-      "summary": "Mercado Livre terá a maior locação de galpão do Brasil &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
+      "summary": "Mercado Livre terá a maior locação de galpão do Brasil &nbsp;&nbsp; mundologistica.com.br",
+      "category": "ecommerce",
       "keywords": [
         "mercado livre",
         "galpão",
@@ -86,7 +86,28 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Destaque",
-        "Logística"
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "11638761e9",
+      "headline": "Prefeitura de Suzano inicia construção da UBS Jardim Saúde, com inauguração prevista para 2027 - Hoje Diário",
+      "source": "Hojediario",
+      "link": "https://hojediario.com",
+      "time": "05/09 às 13:27",
+      "dt_iso": "2026-09-05T16:27:11+00:00",
+      "summary": "Prefeitura de Suzano inicia construção da UBS Jardim Saúde, com inauguração prevista para 2027 &nbsp;&nbsp; Hoje Diário",
+      "category": "expansao",
+      "keywords": [
+        "suzano",
+        "inaugura",
+        "inauguração",
+        "construção"
+      ],
+      "score": 8,
+      "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -269,12 +290,12 @@
     },
     {
       "id": "724e95c17c",
-      "headline": "Magazine Luiza e Mercado Livre fazem parceria e ampliam canais de venda e logística - Jornal da Franca",
+      "headline": "Magazine Luiza e Mercado Livre fazem parceria e ampliam canais de venda e logística - jornaldafranca.com.br",
       "source": "Jornaldafranca",
       "link": "https://www.jornaldafranca.com.br",
       "time": "03/09 às 10:00",
       "dt_iso": "2026-09-03T13:00:00+00:00",
-      "summary": "Magazine Luiza e Mercado Livre fazem parceria e ampliam canais de venda e logística &nbsp;&nbsp; Jornal da Franca",
+      "summary": "Magazine Luiza e Mercado Livre fazem parceria e ampliam canais de venda e logística &nbsp;&nbsp; jornaldafranca.com.br",
       "category": "logistica",
       "keywords": [
         "mercado livre",
@@ -288,33 +309,13 @@
       ]
     },
     {
-      "id": "61db43e70f",
-      "headline": "Magalu abre loja no Mercado Livre e desiste de ser marketplace generalista: o que muda no e-commerce - blocktrends.com.br",
-      "source": "Blocktrends",
-      "link": "https://blocktrends.com.br",
-      "time": "02/09 às 18:33",
-      "dt_iso": "2026-09-02T21:33:29+00:00",
-      "summary": "Magalu abre loja no Mercado Livre e desiste de ser marketplace generalista: o que muda no e-commerce &nbsp;&nbsp; blocktrends.com.br",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "magalu",
-        "abre"
-      ],
-      "score": 7,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "ef5d168048",
-      "headline": "Amazon abre 1° centro de distribuição no PR para entregas no mesmo dia - cnnbrasil.com.br",
+      "headline": "Amazon abre 1° centro de distribuição no PR para entregas no mesmo dia - CNN Brasil",
       "source": "CNN Brasil",
       "link": "https://www.cnnbrasil.com.br",
       "time": "03/09 às 14:48",
       "dt_iso": "2026-09-03T17:48:20+00:00",
-      "summary": "Amazon abre 1° centro de distribuição no PR para entregas no mesmo dia &nbsp;&nbsp; cnnbrasil.com.br",
+      "summary": "Amazon abre 1° centro de distribuição no PR para entregas no mesmo dia &nbsp;&nbsp; CNN Brasil",
       "category": "ecommerce",
       "keywords": [
         "centro de distribuição",
@@ -347,12 +348,12 @@
     },
     {
       "id": "1d6f88dfd3",
-      "headline": "Americanas abre 769 vagas temporárias em logística para a Black Friday - MundoLogística",
+      "headline": "Americanas abre 769 vagas temporárias em logística para a Black Friday - mundologistica.com.br",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "02/09 às 11:34",
       "dt_iso": "2026-09-02T14:34:43+00:00",
-      "summary": "Americanas abre 769 vagas temporárias em logística para a Black Friday &nbsp;&nbsp; MundoLogística",
+      "summary": "Americanas abre 769 vagas temporárias em logística para a Black Friday &nbsp;&nbsp; mundologistica.com.br",
       "category": "logistica",
       "keywords": [
         "americanas",
@@ -400,6 +401,25 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "e9aa747f9b",
+      "headline": "Bauducco escolhe Stefano Mozzi como CEO para acelerar expansão internacional - Portal IN - Pompeu Vasconcelos - Balada IN",
+      "source": "Portalin",
+      "link": "https://www.portalin.com.br",
+      "time": "01/09 às 16:55",
+      "dt_iso": "2026-09-01T19:55:00+00:00",
+      "summary": "Bauducco escolhe Stefano Mozzi como CEO para acelerar expansão internacional - Portal IN - Pompeu Vasconcelos &nbsp;&nbsp; Balada IN",
+      "category": "expansao",
+      "keywords": [
+        "bauducco",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
